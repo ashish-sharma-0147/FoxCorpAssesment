@@ -1,0 +1,11 @@
+.classpath
+.project
+.settings/
+.target/
+LogFiles/*
+/target/
+test-output/*
+screenshots/*
+TestReports/*
+recordings/*
+/bin/
